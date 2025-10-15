@@ -1,0 +1,26 @@
+# Core libraries
+pandas
+numpy
+scikit-learn
+lightgbm
+xgboost
+
+# Visualization
+matplotlib
+seaborn
+shap
+
+# Data processing
+pyarrow
+openpyxl
+
+# SQL & database
+sqlalchemy
+
+# Power BI connection (optional)
+powerbiclient
+
+# Notebook & environment
+jupyter
+ipykernel
+python-dotenv

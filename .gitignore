@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Data folders
+data/raw/
+data/processed/
+data/reports/
+
+# Model files
+models/*.pkl
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
